@@ -1,0 +1,13 @@
+Top diseases by number of associated genes:
+Disease Name
+Prostatic Neoplasms       485
+IGA Glomerulonephritis    450
+Mammary Neoplasms         433
+Obesity                   298
+Peripheral Neuropathy     293
+Stomach Neoplasms         284
+Schizophrenia             280
+Autistic Disorder         254
+Colorectal Neoplasms      232
+Liver carcinoma           222
+Name: Gene ID, dtype: int64
