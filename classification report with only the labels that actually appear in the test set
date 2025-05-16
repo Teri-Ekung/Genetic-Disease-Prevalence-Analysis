@@ -1,0 +1,271 @@
+                                      precision    recall  f1-score   support
+
+                                       AMYOTROPHIC LATERAL SCLEROSIS 1       0.00      0.00      0.00       1.0
+                                                      Absence Epilepsy       0.00      0.00      0.00       0.0
+                                               Acute Coronary Syndrome       0.00      0.00      0.00       1.0
+                                                        Adenocarcinoma       0.00      0.00      0.00       1.0
+                                           Adenocarcinoma Of Esophagus       0.00      0.00      0.00       0.0
+                                              Adenoid Cystic Carcinoma       0.00      0.00      0.00       1.0
+                                                               Adenoma       0.00      0.00      0.00       1.0
+                                            Adenomatous Polyposis Coli       0.00      0.00      0.00       1.0
+                                               Adrenal Gland Neoplasms       0.00      0.00      0.00       0.0
+                                              Adrenocortical carcinoma       0.00      0.00      0.00       0.0
+                                        Adult T-Cell Lymphoma/Leukemia       0.00      0.00      0.00       1.0
+                                      Age related macular degeneration       0.00      0.00      0.00       1.0
+                                                           Albuminuria       0.00      0.00      0.00       1.0
+                                       Alcoholic Intoxication, Chronic       0.00      0.00      0.00       1.0
+                                              Alobar Holoprosencephaly       0.00      0.00      0.00       0.0
+                                                              Alopecia       0.00      0.00      0.00       1.0
+                                                       Alopecia Areata       0.00      0.00      0.00       0.0
+                                                   Alzheimer's Disease       0.00      0.00      0.00       1.0
+                                  Amino Acid Metabolism, Inborn Errors       0.00      0.00      0.00       1.0
+                                                               Amnesia       0.00      0.00      0.00       0.0
+                                              Anemia, Diamond-Blackfan       0.00      0.00      0.00       1.0
+                                                     Anemia, Hemolytic       0.00      0.00      0.00       1.0
+                                                   Anemia, Sickle Cell       0.00      0.00      0.00       0.0
+                                              Animal Mammary Neoplasms       0.00      0.00      0.00       1.0
+                                                              Anorexia       0.00      0.00      0.00       0.0
+                                            Aortic Aneurysm, Abdominal       0.00      0.00      0.00       0.0
+                                            Aortic Valve Insufficiency       0.00      0.00      0.00       1.0
+                            Arrhythmogenic Right Ventricular Dysplasia       0.00      0.00      0.00       0.0
+                                                             Arthritis       0.00      0.00      0.00       1.0
+                                                  Arthritis, Psoriatic       0.00      0.00      0.00       0.0
+                                               Asthma, Aspirin-Induced       0.00      0.00      0.00       1.0
+                                                           Astrocytoma       0.00      0.00      0.00       0.0
+                                                              Atrophic       0.00      0.00      0.00       0.0
+                                                   Autoimmune Diseases       0.00      0.00      0.00       1.0
+                                                 Bardet-Biedl Syndrome       0.00      0.00      0.00       1.0
+                                                     Barrett Esophagus       0.00      0.00      0.00       1.0
+                                                Basal Ganglia Diseases       0.00      0.00      0.00       0.0
+                                                           Berylliosis       0.00      0.00      0.00       0.0
+                                                      Bipolar Disorder       0.00      0.00      0.00       1.0
+                                                          Birth Weight       0.00      0.00      0.00       0.0
+                                                Blood pressure finding       0.00      0.00      0.00       1.0
+                                                           Body Weight       0.00      0.00      0.00       0.0
+                                          Bone Diseases, Developmental       0.00      0.00      0.00       1.0
+                                                           Bradycardia       0.00      0.00      0.00       1.0
+                                                        Brain Diseases       0.00      0.00      0.00       1.0
+                                                       Brain Neoplasms       0.00      0.00      0.00       1.0
+                                               Breast Cancer, Familial       0.00      0.00      0.00       1.0
+                                           Brugada Syndrome (disorder)       0.00      0.00      0.00       1.0
+                                                      Burkitt Lymphoma       0.00      0.00      0.00       1.0
+                                                              Cachexia       0.00      0.00      0.00       1.0
+                                                            Calcinosis       0.00      0.00      0.00       1.0
+                                          Carcinoma, Pancreatic Ductal       0.00      0.00      0.00       1.0
+                                                          Cardiomegaly       0.00      0.00      0.00       1.0
+                                               Cardiomyopathy, Dilated       0.00      0.00      0.00       1.0
+                   Cardiomyopathy, Familial Hypertrophic, 1 (disorder)       0.00      0.00      0.00       0.0
+                                Cardiomyopathy, Hypertrophic, Familial       0.00      0.00      0.00       1.0
+                                                             Catalepsy       0.00      0.00      0.00       0.0
+                                                              Cataract       0.00      0.00      0.00       1.0
+                                                   Cerebral Hemorrhage       0.00      0.00      0.00       0.0
+                                                   Cerebral Infarction       0.00      0.00      0.00       1.0
+                                                    Cholangiocarcinoma       0.00      0.00      0.00       0.0
+                                                Chromosome Aberrations       0.00      0.00      0.00       1.0
+                                    Chronic Obstructive Airway Disease       0.00      0.00      0.00       1.0
+                                                               Colitis       0.00      0.00      0.00       0.0
+                                                       Colon Carcinoma       0.00      0.00      0.00       0.0
+                                                  Colorectal Neoplasms       0.00      0.00      0.00       1.0
+                                                Congenital Abnormality       0.00      0.00      0.00       0.0
+                                              Congenital Heart Defects       0.00      0.00      0.00       1.0
+                                       Congenital diaphragmatic hernia       0.00      0.00      0.00       0.0
+                                             Copper-Overload Cirrhosis       0.00      0.00      0.00       0.0
+                                            Craniofacial Abnormalities       0.00      0.00      0.00       1.0
+                                             Creutzfeldt-Jakob disease       0.00      0.00      0.00       1.0
+                                                              Dementia       0.00      0.00      0.00       1.0
+                                                   Depressive disorder       0.00      0.00      0.00       1.0
+                                                     Diabetes Mellitus       0.00      0.00      0.00       1.0
+                                       Diabetes Mellitus, Experimental       0.00      0.00      0.00       0.0
+                              Diabetes Mellitus, Non-Insulin-Dependent       0.00      0.00      0.00       1.0
+                                                              Diarrhea       0.00      0.00      0.00       0.0
+                                                   Disease Progression       0.00      0.00      0.00       1.0
+                                                         Down Syndrome       0.00      0.00      0.00       0.0
+                                                          Drug Allergy       0.00      0.00      0.00       0.0
+                                                        Drug Eruptions       0.00      0.00      0.00       0.0
+                                                Dyskeratosis Congenita       0.00      0.00      0.00       1.0
+                                              Dyskinesia, Drug-Induced       0.00      0.00      0.00       1.0
+                                                         Dyslipidemias       0.00      0.00      0.00       1.0
+                                                                 Edema       0.00      0.00      0.00       1.0
+                                       Electrocardiogram: P-R interval       0.00      0.00      0.00       0.0
+                                                  Erectile dysfunction       0.00      0.00      0.00       0.0
+                                                  Esophageal Neoplasms       0.00      0.00      0.00       1.0
+                                                     Eye Abnormalities       0.00      0.00      0.00       0.0
+                                                   Febrile Convulsions       0.00      0.00      0.00       1.0
+                                            Female Urogenital Diseases       0.00      0.00      0.00       1.0
+                                                                 Fever       0.00      0.00      0.00       1.0
+                                              Fibrinogen Adverse Event       0.00      0.00      0.00       1.0
+                                              Focal glomerulosclerosis       0.00      0.00      0.00       1.0
+                                             Gastrointestinal Diseases       0.00      0.00      0.00       1.0
+                                               Giant Cell Glioblastoma       0.00      0.00      0.00       1.0
+                                                              Glaucoma       0.00      0.00      0.00       1.0
+                                                    Glomerulonephritis       0.00      0.00      0.00       0.0
+                                                        Graves Disease       0.00      0.00      0.00       0.0
+                                                      Growth Disorders       0.00      0.00      0.00       1.0
+                                                             Hay fever       0.00      0.00      0.00       0.0
+                                               Head and Neck Neoplasms       0.00      0.00      0.00       1.0
+                                                 Hearing Loss, Partial       0.00      0.00      0.00       0.0
+                                                   Heart valve disease       0.00      0.00      0.00       0.0
+                                                           Heat Stroke       0.00      0.00      0.00       0.0
+                                                       Hemangiosarcoma       0.00      0.00      0.00       0.0
+                                                       Hemochromatosis       0.00      0.00      0.00       0.0
+                                                            Hemorrhage       0.00      0.00      0.00       1.0
+                                                Hepatic Encephalopathy       0.00      0.00      0.00       0.0
+                                                           Hepatitis B       0.00      0.00      0.00       0.0
+                                                  Hepatitis B, Chronic       0.00      0.00      0.00       0.0
+                                                           Hepatitis C       0.00      0.00      0.00       1.0
+                                                 Hepatitis, Autoimmune       0.00      0.00      0.00       1.0
+                                                    Hepatitis, Chronic       0.00      0.00      0.00       1.0
+                                         Hepatolenticular Degeneration       0.00      0.00      0.00       1.0
+                                                          Hepatomegaly       0.00      0.00      0.00       0.0
+                         Hereditary Breast and Ovarian Cancer Syndrome       0.00      0.00      0.00       0.0
+                                                    Huntington Disease       0.00      0.00      0.00       1.0
+                                                  Hyperactive behavior       0.00      0.00      0.00       1.0
+                                                         Hypercalcemia       0.00      0.00      0.00       1.0
+                                        Hypercholesterolemia, Familial       0.00      0.00      0.00       0.0
+                                                             Hyperemia       0.00      0.00      0.00       0.0
+                                                         Hyperglycemia       0.00      0.00      0.00       0.0
+                                                  Hyperhomocysteinemia       0.00      0.00      0.00       1.0
+                                                       Hyperinsulinism       0.00      0.00      0.00       1.0
+                                                        Hyperlipidemia       0.00      0.00      0.00       1.0
+                                                  Hypertriglyceridemia       0.00      0.00      0.00       0.0
+                                                          Hypoglycemia       0.00      0.00      0.00       0.0
+                                                          Hypogonadism       0.00      0.00      0.00       0.0
+                                         Idiopathic Pulmonary Fibrosis       0.00      0.00      0.00       0.0
+                                            Impaired glucose tolerance       0.00      0.00      0.00       1.0
+                                           Inborn Errors of Metabolism       0.00      0.00      0.00       0.0
+                                    Infarction, Middle Cerebral Artery       0.00      0.00      0.00       1.0
+                                                             Influenza       0.00      0.00      0.00       1.0
+                                               Intellectual Disability       0.00      0.00      0.00       1.0
+                                                  Intestinal Neoplasms       0.00      0.00      0.00       0.0
+                                              Jeune thoracic dystrophy       0.00      0.00      0.00       0.0
+                                                     Kallmann Syndrome       0.00      0.00      0.00       1.0
+                                                                Keloid       0.00      0.00      0.00       0.0
+                                               Kidney Failure, Chronic       0.00      0.00      0.00       0.0
+                   LEUKEMIA, ACUTE LYMPHOBLASTIC, SUSCEPTIBILITY TO, 3       0.00      0.00      0.00       0.0
+                                                    Learning Disorders       0.00      0.00      0.00       0.0
+                                          Left Ventricular Hypertrophy       0.00      0.00      0.00       1.0
+                                                               Leprosy       0.00      0.00      0.00       1.0
+                                      Leukemia, Lymphocytic, Acute, L1       0.00      0.00      0.00       0.0
+                                                     Lewy Body Disease       0.00      0.00      0.00       1.0
+                                                            Lipoidosis       0.00      0.00      0.00       0.0
+                                                       Liver Cirrhosis       0.00      0.00      0.00       1.0
+                                                       Liver carcinoma       0.00      0.00      0.00       1.0
+                                                        Liver diseases       0.00      0.00      0.00       1.0
+                                               Lobar Holoprosencephaly       0.00      0.00      0.00       1.0
+                                                      Long QT Syndrome       0.00      0.00      0.00       1.0
+                                           Lung Diseases, Interstitial       0.00      0.00      0.00       0.0
+                                                           Lung Injury       0.00      0.00      0.00       0.0
+                                                  Lymphatic Metastasis       0.00      0.00      0.00       0.0
+                                                              Lymphoma       0.00      0.00      0.00       1.0
+                                                  Lymphoma, Follicular       0.00      0.00      0.00       0.0
+                                                 Lymphoma, Non-Hodgkin       0.00      0.00      0.00       1.0
+                                           Lymphoma, T-Cell, Cutaneous       0.00      0.00      0.00       0.0
+               MYCOBACTERIUM TUBERCULOSIS, SUSCEPTIBILITY TO (finding)       0.00      0.00      0.00       0.0
+                                              MYELODYSPLASTIC SYNDROME       0.00      0.00      0.00       0.0
+                                             Major Depressive Disorder       0.00      0.00      0.00       1.0
+                                                      Male infertility       0.00      0.00      0.00       1.0
+                                 Malformations of Cortical Development       0.00      0.00      0.00       0.0
+Malignant lymphoma, lymphocytic, intermediate differentiation, diffuse       0.00      0.00      0.00       0.0
+                                            Malignant neoplasm of lung       0.00      0.00      0.00       0.0
+                                           Malignant neoplasm of ovary       0.00      0.00      0.00       0.0
+                                        Malignant neoplasm of pancreas       0.00      0.00      0.00       1.0
+                                        Malignant neoplasm of prostate       0.00      0.00      0.00       0.0
+                                       Mammary Neoplasms, Experimental       0.00      0.00      0.00       0.0
+                                                       Marfan Syndrome       0.00      0.00      0.00       1.0
+                                                       Marijuana Abuse       0.00      0.00      0.00       0.0
+                                                Meckel-Gruber syndrome       0.00      0.00      0.00       0.0
+                                                       Medulloblastoma       0.00      0.00      0.00       1.0
+                                                      Memory Disorders       0.00      0.00      0.00       1.0
+                                          Mental Retardation, X-Linked       0.00      0.00      0.00       0.0
+                                               Metabolic Bone Disorder       0.00      0.00      0.00       0.0
+                                                  Metabolic Syndrome X       0.00      0.00      0.00       1.0
+                                                Methylmalonic acidemia       0.00      0.00      0.00       1.0
+                                                          Microcephaly       0.00      0.00      0.00       1.0
+                                     Micronuclei, Chromosome-Defective       0.00      0.00      0.00       1.0
+                                            Microsatellite Instability       0.00      0.00      0.00       1.0
+                                              Mitochondrial Myopathies       0.00      0.00      0.00       1.0
+                                                        Mouth Diseases       0.00      0.00      0.00       1.0
+                                                    Movement Disorders       0.00      0.00      0.00       1.0
+                                                       Muscle Weakness       0.00      0.00      0.00       1.0
+                                                      Muscular Atrophy       0.00      0.00      0.00       1.0
+                                                      Myeloid Leukemia       0.00      0.00      0.00       1.0
+                                          Myoclonic Epilepsy, Juvenile       0.00      0.00      0.00       1.0
+                                                              Myopathy       0.00      0.00      0.00       1.0
+                                                                Myopia       0.00      0.00      0.00       1.0
+                                              Nasopharyngeal carcinoma       0.00      0.00      0.00       1.0
+                                             Necrotizing Enterocolitis       0.00      0.00      0.00       1.0
+                                            Neoplasm Recurrence, Local       0.00      0.00      0.00       1.0
+                                    Neoplasms, Germ Cell and Embryonal       0.00      0.00      0.00       0.0
+                                      Neoplastic Syndromes, Hereditary       0.00      0.00      0.00       0.0
+                                                        Nephroblastoma       0.00      0.00      0.00       1.0
+                                               Neurogenic Inflammation       0.00      0.00      0.00       0.0
+                                               Neurotoxicity Syndromes       0.00      0.00      0.00       1.0
+                                           Nuclear non-senile cataract       0.00      0.00      0.00       0.0
+                                               Oral Submucous Fibrosis       0.00      0.00      0.00       1.0
+                           Osteogenesis imperfecta type III (disorder)       0.00      0.00      0.00       0.0
+                            Osteogenesis imperfecta type IV (disorder)       0.00      0.00      0.00       1.0
+                                                         Ovarian Cysts       0.00      0.00      0.00       1.0
+                                         PARKINSON DISEASE, LATE-ONSET       0.00      0.00      0.00       1.0
+                                                          Pancreatitis       0.00      0.00      0.00       1.0
+                                                             Papilloma       0.00      0.00      0.00       0.0
+                           Pathological accumulation of air in tissues       0.00      0.00      0.00       0.0
+                                       Peroxisome biogenesis disorders       0.00      0.00      0.00       0.0
+                                                      Pheochromocytoma       0.00      0.00      0.00       1.0
+                                             Polycystic Ovary Syndrome       0.00      0.00      0.00       1.0
+                                               Poor school performance       0.00      0.00      0.00       0.0
+                      Precursor B-Cell Lymphoblastic Leukemia-Lymphoma       0.00      0.00      0.00       1.0
+                      Precursor T-Cell Lymphoblastic Leukemia-Lymphoma       0.00      0.00      0.00       1.0
+                                             Primary biliary cirrhosis       0.00      0.00      0.00       0.0
+                                  Prostatic Intraepithelial Neoplasias       0.00      0.00      0.00       0.0
+                                                   Prostatic Neoplasms       0.00      0.00      0.00       1.0
+                                                           Proteinuria       0.00      0.00      0.00       0.0
+                                                   Psychotic Disorders       0.00      0.00      0.00       0.0
+                                                    Pulmonary Embolism       0.00      0.00      0.00       1.0
+                                                    Pulmonary Fibrosis       0.00      0.00      0.00       1.0
+                                                     Refractive Errors       0.00      0.00      0.00       0.0
+                                                   Renal Insufficiency       0.00      0.00      0.00       0.0
+                        Renal dysplasia and retinal aplasia (disorder)       0.00      0.00      0.00       1.0
+                                             Respiratory Insufficiency       0.00      0.00      0.00       1.0
+                                                  Retinal Degeneration       0.00      0.00      0.00       1.0
+                                                  Romano-Ward Syndrome       0.00      0.00      0.00       0.0
+                             SOLITARY MEDIAN MAXILLARY CENTRAL INCISOR       0.00      0.00      0.00       1.0
+                                              Salivary Gland Neoplasms       0.00      0.00      0.00       0.0
+                                                           Sarcoidosis       0.00      0.00      0.00       1.0
+                                                 Seizure Adverse Event       0.00      0.00      0.00       1.0
+                                                              Seizures       0.00      0.00      0.00       1.0
+                                           Semilobar Holoprosencephaly       0.00      0.00      0.00       1.0
+                                                                Sepsis       0.00      0.00      0.00       0.0
+                                                    Sjogren's Syndrome       0.00      0.00      0.00       1.0
+                                                    Skin Abnormalities       0.00      0.00      0.00       0.0
+                                                          Spina Bifida       0.00      0.00      0.00       0.0
+                                  Squamous cell carcinoma of esophagus       0.00      0.00      0.00       1.0
+                                              Stevens-Johnson Syndrome       0.00      0.00      0.00       1.0
+                                                     Stomach Neoplasms       0.00      0.00      0.00       1.0
+                                            Systemic arterial pressure       0.00      0.00      0.00       0.0
+                                                       T-Cell Lymphoma       0.00      0.00      0.00       0.0
+                        TOBACCO ADDICTION, SUSCEPTIBILITY TO (finding)       0.00      0.00      0.00       1.0
+                                                           Tachycardia       0.00      0.00      0.00       0.0
+                                            Testicular Germ Cell Tumor       0.00      0.00      0.00       0.0
+                                            Thrombocythemia, Essential       0.00      0.00      0.00       1.0
+                                                       Thromboembolism       0.00      0.00      0.00       0.0
+                                                  Tobacco Use Disorder       0.00      0.00      0.00       0.0
+                                                      Tongue Neoplasms       0.00      0.00      0.00       1.0
+                                                 Tonic-Clonic Epilepsy       0.00      0.00      0.00       0.0
+                                             Transient Ischemic Attack       0.00      0.00      0.00       1.0
+                                                    Ulcerative Colitis       0.00      0.00      0.00       1.0
+                                                             Urticaria       0.00      0.00      0.00       1.0
+                                                     Vascular Diseases       0.00      0.00      0.00       1.0
+                                                              Vitiligo       0.00      0.00      0.00       1.0
+                          Walker-Warburg congenital muscular dystrophy       0.00      0.00      0.00       1.0
+                                                           Weight Gain       0.00      0.00      0.00       1.0
+                                                      Weight decreased       0.00      0.00      0.00       1.0
+                                                      beta Thalassemia       0.00      0.00      0.00       1.0
+                                                           gliosarcoma       0.00      0.00      0.00       0.0
+                                                    hearing impairment       0.00      0.00      0.00       1.0
+                                                              leukemia       0.00      0.00      0.00       1.0
+                                               nervous system disorder       0.00      0.00      0.00       1.0
+                                                      ovarian neoplasm       0.00      0.00      0.00       1.0
+
+                                                              accuracy                           0.00     156.0
+                                                             macro avg       0.00      0.00      0.00     156.0
+                                                          weighted avg       0.00      0.00      0.00     156.0
