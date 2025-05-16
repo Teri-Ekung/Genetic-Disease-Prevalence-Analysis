@@ -1,0 +1,8 @@
+(21357, 3)
+Index(['# Disease ID', 'Disease Name', 'Gene ID'], dtype='object')
+  # Disease ID              Disease Name  Gene ID
+0     C0036095  Salivary Gland Neoplasms     1462
+1     C0036095  Salivary Gland Neoplasms     1612
+2     C0036095  Salivary Gland Neoplasms      182
+3     C0036095  Salivary Gland Neoplasms     2011
+4     C0036095  Salivary Gland Neoplasms     2019
